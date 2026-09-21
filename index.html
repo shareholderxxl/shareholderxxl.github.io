@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="de" data-theme="light">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>portabletranscribe</title>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="manifest" href="/manifest.webmanifest" crossorigin="use-credentials" />
+    <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="portabletranscribe" />
+    <meta name="theme-color" content="#f5f6fb" />
+    <script>
+      // Theme vor dem ersten Paint setzen (kein Flash-of-wrong-theme), Default hell.
+      try {
+        var t = localStorage.getItem('portabletranscribe_theme') || 'light';
+        document.documentElement.setAttribute('data-theme', t);
+        document.documentElement.style.colorScheme = t;
+      } catch (e) {}
+    </script>
+    <style>
+      *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+      html[data-theme="light"] { color-scheme: light; }
+      html[data-theme="dark"] { color-scheme: dark; }
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        min-height: 100vh;
+      }
+      body { background: #f5f6fb; color: #1a1f36; }
+      html[data-theme="dark"] body { background: #0d1124; color: #ecedf5; }
+    </style>
+    <script type="module" crossorigin src="/assets/main-33Yi2O9N.js" integrity="sha384-L8TCo04HgdQL2mzx3qSLGOI2Ki5Hcxk3xU93ClSGkh9KaYrnmxx2ksLMUtldiP/G" crossorigin="anonymous"></script>
+    <link rel="stylesheet" crossorigin href="/assets/main-BVidLBpf.css" integrity="sha384-AIDLYPn8qx00G2OyeY0qOu9szp+WmdXlWHTjwYC6FMEVXmWqGNiCr7Dl3geundpg" crossorigin="anonymous">
+  </head>
+  <body>
+    <div id="root"></div>
+    <script src="/config.js"></script>
+  </body>
+</html>
+

@@ -1,0 +1,10 @@
+{
+  "ort-wasm-simd-threaded.asyncify.mjs": "sha384-vFFxMm9RJG67DFF82hXoe49JG0ybxNNlgBC6Z4sPpjrN+KDq5VKmdhIX6MZpAL0V",
+  "ort-wasm-simd-threaded.asyncify.wasm": "sha384-T9oYuYo5JRZ9AMy4qYGsL0wxpGumItn1S1Xgd5qT/peyjfbEdRStPDgZnr12b10b",
+  "ort-wasm-simd-threaded.jsep.mjs": "sha384-UnMnZc4hekoMygc89hIyX3b7KuuNwqJTMOZJdeAQjuvGC/WVdTT+w+HmwWCANfli",
+  "ort-wasm-simd-threaded.jsep.wasm": "sha384-NRkAqXy32zY6LuDA4go2FTF1Cy85jvEfSu6DPTevOmSu441+7WhVZocyqdhT1kNB",
+  "ort-wasm-simd-threaded.jspi.mjs": "sha384-DVN+qx2gX52lhk8MbbaRSM1lYgRES8V8B2NhKvjEKHiT2dfTQ0DU+6joENttWPOF",
+  "ort-wasm-simd-threaded.jspi.wasm": "sha384-tWPeGxBHLABstxErIGBTUZIpHyfoQAklA2cCcJC/K8w0ZnhGvMXdZyR9UTNg2Qq4",
+  "ort-wasm-simd-threaded.mjs": "sha384-QwBuCPwkZ1hn48SSG/YP1rd25hKczDIg103x2AtlotnwUzVF919IZz1uRnLp9IOw",
+  "ort-wasm-simd-threaded.wasm": "sha384-ZBv2MGQL3EUHCYbVm9I410F+QZX7GWFj9a556jISGqlE2TiRaeEWLu6jxd8ZYMGC"
+}
