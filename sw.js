@@ -12,8 +12,8 @@
  * (api/models/…) network-first gecacht, damit hub.js offline den int4-Quant
  * waehlen kann.
  */
-const BUILD_VERSION = '4f78bf31d80e23b6';
-const PRECACHE = ["/.well-known/asset-integrity.json","/assets/main-33Yi2O9N.js","/assets/main-BVidLBpf.css","/config.js","/datenschutz.html","/dictation-regex/dictation_de.csv","/dictation-regex/manifest.txt","/favicon.svg","/icons/apple-touch-icon.png","/icons/icon-192.png","/icons/icon-512.png","/icons/maskable-192.png","/icons/maskable-512.png","/index.html","/manifest.webmanifest","/ort/manifest.json","/pcm-recorder-worklet.js","/portabletranscribe-architecture.html"];
+const BUILD_VERSION = 'aa5d9426c1c61d52';
+const PRECACHE = ["/.well-known/asset-integrity.json","/assets/main-BVidLBpf.css","/assets/main-COTpaQ-P.js","/config.js","/datenschutz.html","/dictation-regex/dictation_de.csv","/dictation-regex/manifest.txt","/favicon.svg","/icons/apple-touch-icon.png","/icons/icon-192.png","/icons/icon-512.png","/icons/maskable-192.png","/icons/maskable-512.png","/index.html","/manifest.webmanifest","/ort/manifest.json","/pcm-recorder-worklet.js","/portabletranscribe-architecture.html"];
 
 const SHELL_CACHE = 'pt-shell-' + BUILD_VERSION;
 const RUNTIME_CACHE = 'pt-runtime-v1';
