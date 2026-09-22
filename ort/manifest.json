@@ -1,10 +1,10 @@
 {
-  "ort-wasm-simd-threaded.asyncify.mjs": "sha384-vFFxMm9RJG67DFF82hXoe49JG0ybxNNlgBC6Z4sPpjrN+KDq5VKmdhIX6MZpAL0V",
-  "ort-wasm-simd-threaded.asyncify.wasm": "sha384-T9oYuYo5JRZ9AMy4qYGsL0wxpGumItn1S1Xgd5qT/peyjfbEdRStPDgZnr12b10b",
-  "ort-wasm-simd-threaded.jsep.mjs": "sha384-UnMnZc4hekoMygc89hIyX3b7KuuNwqJTMOZJdeAQjuvGC/WVdTT+w+HmwWCANfli",
-  "ort-wasm-simd-threaded.jsep.wasm": "sha384-NRkAqXy32zY6LuDA4go2FTF1Cy85jvEfSu6DPTevOmSu441+7WhVZocyqdhT1kNB",
-  "ort-wasm-simd-threaded.jspi.mjs": "sha384-DVN+qx2gX52lhk8MbbaRSM1lYgRES8V8B2NhKvjEKHiT2dfTQ0DU+6joENttWPOF",
-  "ort-wasm-simd-threaded.jspi.wasm": "sha384-tWPeGxBHLABstxErIGBTUZIpHyfoQAklA2cCcJC/K8w0ZnhGvMXdZyR9UTNg2Qq4",
-  "ort-wasm-simd-threaded.mjs": "sha384-QwBuCPwkZ1hn48SSG/YP1rd25hKczDIg103x2AtlotnwUzVF919IZz1uRnLp9IOw",
-  "ort-wasm-simd-threaded.wasm": "sha384-ZBv2MGQL3EUHCYbVm9I410F+QZX7GWFj9a556jISGqlE2TiRaeEWLu6jxd8ZYMGC"
+  "ort-wasm-simd-threaded.asyncify.mjs": "sha384-qViEcCGzsR/m8nlQwIsbYh7afN4thuraqFYDQY6huvmoLVoZq/eYawQ1wrv8nnhA",
+  "ort-wasm-simd-threaded.asyncify.wasm": "sha384-EPVDLTxuO663dkZO/pcKJF6vOyyfq/5z9FY1oksN0UWFX2ABH4wDDZQHeNoUleWR",
+  "ort-wasm-simd-threaded.jsep.mjs": "sha384-oE7XJ3WFQfuTdk0T1EGXViKSjtupvq5xVNx8ODzs7dq8qjGnN5P2tZBPr8XKceJ4",
+  "ort-wasm-simd-threaded.jsep.wasm": "sha384-Ueht0ynFKexyaENvQBCXJQmjjdEzUgnesolNNQPAhnDeYvh1YA53nYHw1mrWvaM1",
+  "ort-wasm-simd-threaded.jspi.mjs": "sha384-I057lW+dSDOqTXP3UpXfKPmGgLn8O9NoN38eP6T6wlQsduqNDHJebkOSjnM52LlE",
+  "ort-wasm-simd-threaded.jspi.wasm": "sha384-bMP/XSpH5FjIIaVnUc1eR3cDsGZGdO1ZPjcHGEtvMwOgZZFcOEN8VrGooR81HSFO",
+  "ort-wasm-simd-threaded.mjs": "sha384-XcXA/MtAf0WpB8e023xQH9CM7RIjiugakT7x99DIwpFf7k56BIFFcAPerIF7FDad",
+  "ort-wasm-simd-threaded.wasm": "sha384-vjBJ1z7qrhkTyYsNqKeF6c7N+nOJSU94czEo+tvZcu8G75JparGq9kB+kTnEUNVM"
 }
