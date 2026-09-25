@@ -16,8 +16,8 @@
  * (api/models/…) network-first gecacht, damit hub.js offline den int4-Quant
  * waehlen kann.
  */
-const BUILD_VERSION = '370f9aa539788d3c';
-const PRECACHE = ["/.well-known/asset-integrity.json","/assets/main-8ZImmodv.js","/assets/main-CsvVO276.css","/config.js","/datenschutz.html","/dictation-regex/dictation_de.csv","/dictation-regex/manifest.txt","/favicon.svg","/icons/apple-touch-icon.png","/icons/icon-192.png","/icons/icon-512.png","/icons/maskable-192.png","/icons/maskable-512.png","/index.html","/manifest.webmanifest","/ort/manifest.json","/pcm-recorder-worklet.js","/portabletranscribe-architecture.html"];
+const BUILD_VERSION = '16d994885f231284';
+const PRECACHE = ["/.well-known/asset-integrity.json","/assets/main-CsvVO276.css","/assets/main-DnGmkv4T.js","/config.js","/datenschutz.html","/dictation-regex/dictation_de.csv","/dictation-regex/manifest.txt","/favicon.svg","/icons/apple-touch-icon.png","/icons/icon-192.png","/icons/icon-512.png","/icons/maskable-192.png","/icons/maskable-512.png","/index.html","/manifest.webmanifest","/ort/manifest.json","/pcm-recorder-worklet.js","/portabletranscribe-architecture.html"];
 
 const SHELL_CACHE = 'pt-shell-' + BUILD_VERSION;
 // Runtime-Assets (ORT/ffmpeg) sind pro Build versioniert. Ihre Dateinamen

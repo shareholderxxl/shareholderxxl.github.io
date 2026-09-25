@@ -8,4 +8,5 @@ window.__CONFIG__ = {
   VITE_MODEL_ENCODER_REPO: 'Olicorne/parakeet-tdt-0.6b-v3-optimized-onnx',
   VITE_MODEL_ENCODER_SUBFOLDER: 'int8',
   VITE_MODEL_ENCODER_FILE: 'encoder-model.int8.onnx',
+  VITE_CANARY_REPO: 'istupakov/canary-180m-flash-onnx',
 };
